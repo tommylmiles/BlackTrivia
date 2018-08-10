@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Martin Luther King Jr. was the first African American to appear on a US Postage Stamp</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Virginia was the first state to elect a black govenor , in 1989</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Martin Luther King Jr. was awarded the Freedom Award</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The first president of the NAACP was white</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Homer Plessy was the plaintiff in the supremem court case that upheld &quot;Seperate but Equal&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Jesse Owens was the first African American to win an Olympic Gold Metal</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In, New York State, a free man could vote if he owned $250 worth of land</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Before the Civil War, no african american newspaper existed</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>One year before the start of the Civil War, 4 Million slaves lived in the South of the USA</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In 1833, Slavery was abolished by the British Empire</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Amistad, was a ship that sucessfully rebelled, led by a slave named</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Hard passage is the sea journey slaves made from West Africa to America</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>JFK signed the Civil Right Act of 1964</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Martin Luther King Jr&apos;s fathers church was named Ebenezer Baptist</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Fannie Lou Hamer wrote &quot;I know why the Caged Bird Sings&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Bobby Seal was elected chairman of the SNCC- Student Non-Violent Coordinating Committee in 1966</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Jackie Robinson is the first African American to play in Major League Baseball</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The first &quot;Sit-In&quot; at a segregated lunch counter was in Jackson, Mississippi</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Hiram Revels was the first African American to serve in the US Senate</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In 1867 the 13th amendment was ratified to abolish slavery</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The 15th amendment was ratified to allow African Americans to Vote</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Thurgood Marshall was the first African American to graduate from Harvard University</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Sarah Good was the first African American woman to receive a patent, by inventing the Folding Bed</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Before known as Black History Month, in 1936 when originated, it was called Negro History Week</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Malcolm X is known at the &quot;Father of Black Histoy&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Aint No Stopping Us Now by Gene McFadden and John Whitehead was known as the Black National Anthem in 1979</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+		</dict>
+	</array>
+</dict>
+</plist>

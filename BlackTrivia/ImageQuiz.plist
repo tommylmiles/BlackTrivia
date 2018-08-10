@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Dragon Fly Jones</string>
+				<string>Otis</string>
+				<string>Roscoe</string>
+				<string>Jerome</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Jerome</string>
+			<key>Question</key>
+			<string>jerome.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Wanda</string>
+				<string>Shanaynay</string>
+				<string>Myra</string>
+				<string>Hammer</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Wanda</string>
+			<key>Question</key>
+			<string>wanda.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Synclaire</string>
+				<string>Regine</string>
+				<string>Maxine</string>
+				<string>Khadijah</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Maxine</string>
+			<key>Question</key>
+			<string>Maxine.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Mary Jenkins</string>
+				<string>Sandra Clark</string>
+				<string>Brenda Jenkins</string>
+				<string>Tiffany Holloway</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Brenda Jenkins</string>
+			<key>Question</key>
+			<string>brenda.jpeg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Louise</string>
+				<string>Helen</string>
+				<string>Jenny</string>
+				<string>Florence</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Florence</string>
+			<key>Question</key>
+			<string>florence.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Fancy</string>
+				<string>Gloria</string>
+				<string>Nicole</string>
+				<string>Helen</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Gloria</string>
+			<key>Question</key>
+			<string>gloria.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>JJ</string>
+				<string>Bookman</string>
+				<string>Urkel</string>
+				<string>Michael</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>JJ</string>
+			<key>Question</key>
+			<string>jjwalker.png</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Regine</string>
+				<string>Max</string>
+				<string>Khadijah</string>
+				<string>Synclaire</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Synclaire</string>
+			<key>Question</key>
+			<string>synclaire.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Haywood</string>
+				<string>Dwayne</string>
+				<string>ReRun</string>
+				<string>Raj</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>ReRun</string>
+			<key>Question</key>
+			<string>rerun.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>James</string>
+				<string>Bookman</string>
+				<string>Roger</string>
+				<string>Leroy</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Bookman</string>
+			<key>Question</key>
+			<string>bookman.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string> Hustle Man</string>
+				<string>Angry Man</string>
+				<string>Bruh Man</string>
+				<string>Nipsey</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Bruh Man</string>
+			<key>Question</key>
+			<string>bruhman.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>TC</string>
+				<string>TK</string>
+				<string>Moesby</string>
+				<string>Hustle Man</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>TC</string>
+			<key>Question</key>
+			<string>TC.png</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Akeem</string>
+				<string>Jaffe</string>
+				<string>Semmi</string>
+				<string>Maurice</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Semmi</string>
+			<key>Question</key>
+			<string>semmi.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Denise</string>
+				<string>Whitley</string>
+				<string>Jaleesa</string>
+				<string>Freddie</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Freddie</string>
+			<key>Question</key>
+			<string>freddie.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Drew</string>
+				<string>Greg</string>
+				<string>Chris</string>
+				<string>Julius Jr</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Drew</string>
+			<key>Question</key>
+			<string>Drew.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Eddie</string>
+				<string>Victor</string>
+				<string>Devon</string>
+				<string>Corey</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Corey</string>
+			<key>Question</key>
+			<string>corey.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Denise</string>
+				<string>Joi</string>
+				<string>Felisha</string>
+				<string>Roxy</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Joi</string>
+			<key>Question</key>
+			<string>joi.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Flyguy</string>
+				<string>Slammer</string>
+				<string>Mr.Big</string>
+				<string>BigTymer</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Flyguy</string>
+			<key>Question</key>
+			<string>flyguy.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Suga Pimp</string>
+				<string>Cream Corn</string>
+				<string>Paperboy</string>
+				<string>Freddie</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Cream Corn</string>
+			<key>Question</key>
+			<string>creamcorn.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Willis</string>
+				<string>Arnold</string>
+				<string>Webster</string>
+				<string>Gary</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Webster</string>
+			<key>Question</key>
+			<string>Webster.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Roger</string>
+				<string>Alfie</string>
+				<string>Goo</string>
+				<string>Dee Dee</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Goo</string>
+			<key>Question</key>
+			<string>Goo.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Theo</string>
+				<string>Kenny</string>
+				<string>Elvin</string>
+				<string>LT Martin Kendall</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Elvin</string>
+			<key>Question</key>
+			<string>elvin.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Hustle Man</string>
+				<string>Angry Man</string>
+				<string>Bruh Man</string>
+				<string>Nipsey</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Hustle Man</string>
+			<key>Question</key>
+			<string>hustleman.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Jack Slade</string>
+				<string>John Spade</string>
+				<string>Jack Spade</string>
+				<string>John Slade</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Jack Spade</string>
+			<key>Question</key>
+			<string>jackspade.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Dead Mike</string>
+				<string>Stab Master Arson</string>
+				<string>40 Dog</string>
+				<string>Gusto</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Gusto</string>
+			<key>Question</key>
+			<string>gusto.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Monique</string>
+				<string>Heather</string>
+				<string>Megan</string>
+				<string>Amy</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Monique</string>
+			<key>Question</key>
+			<string>monique.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Family Matters</string>
+				<string>Fresh Prince</string>
+				<string>Good Times</string>
+				<string>Martin</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Family Matters</string>
+			<key>Question</key>
+			<string>&quot;Did I do that?&quot;</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>The Waynes Brothers</string>
+				<string>Bernie Mac Show</string>
+				<string>Good Times</string>
+				<string>What&apos;s Happening</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Good Times</string>
+			<key>Question</key>
+			<string>&quot;Hi y&apos;all out there in TV land&quot;</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Steve Harvey Show</string>
+				<string>Living Single</string>
+				<string>Martin</string>
+				<string>One on One</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Martin</string>
+			<key>Question</key>
+			<string>&quot;Cole, You Stupid!&quot;</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;This is the big one Elizabeth&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Sanford &amp; Son</string>
+			<key>Answers</key>
+			<array>
+				<string>Good Times</string>
+				<string>What&apos;s Happening</string>
+				<string>Sanford &amp; Son</string>
+				<string>The Jeffersons</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;As If&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Fresh Prince</string>
+			<key>Answers</key>
+			<array>
+				<string>Fresh Prince</string>
+				<string>Family Matters</string>
+				<string>Good Times</string>
+				<string>Sister Sister</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Back Up! Just mind ya Business&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Fresh Prince</string>
+			<key>Answers</key>
+			<array>
+				<string>A Different World</string>
+				<string>Good Times</string>
+				<string>Fresh Prince</string>
+				<string>Martin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Damn, Damn, Damn&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Good Times</string>
+			<key>Answers</key>
+			<array>
+				<string>Waynes Brother</string>
+				<string>Fresh Prince</string>
+				<string>Good Times</string>
+				<string>Kenan &amp; Kel</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Dyno-Mite!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Good Times</string>
+			<key>Answers</key>
+			<array>
+				<string>Good Times</string>
+				<string>The Parkers</string>
+				<string>The Jeffersons</string>
+				<string>Different Strokes</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Buffalo Butt&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Good Times</string>
+			<key>Answers</key>
+			<array>
+				<string>The Jeffersons</string>
+				<string>Fresh Prince</string>
+				<string>Waynes Brothers</string>
+				<string>Good Times</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Fallen and I can&apos;t get up&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Family Matters</string>
+			<key>Answers</key>
+			<array>
+				<string>Steve Harvey Show</string>
+				<string>The Parkers</string>
+				<string>Sanford &amp; Son</string>
+				<string>Family Matters</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Help Me!, Help Me Please!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Waynes Brothers</string>
+			<key>Answers</key>
+			<array>
+				<string>Fresh Prince</string>
+				<string>My Wife and Kids</string>
+				<string>Cosby Show</string>
+				<string>Waynes Brothers</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Shut up, Stoopid&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Waynes Brothers</string>
+			<key>Answers</key>
+			<array>
+				<string>Martin</string>
+				<string>Waynes Brothers</string>
+				<string>Sister Sister</string>
+				<string>In Living Color</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Bang Bang Bang&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Waynes Brothers</string>
+			<key>Answers</key>
+			<array>
+				<string>A Different World</string>
+				<string>Good Times</string>
+				<string>Waynes Brothers</string>
+				<string>The Parkers</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Nothin, Just Chillen&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Martin</string>
+			<key>Answers</key>
+			<array>
+				<string>Martin</string>
+				<string>In Living Color</string>
+				<string>Jamie Foxx Show</string>
+				<string>Everybody Hates Chris</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;What you talkin bout Willis&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Different Strokes</string>
+			<key>Answers</key>
+			<array>
+				<string>Facts of Life</string>
+				<string>Different Strokes</string>
+				<string>Webster</string>
+				<string>Good Times</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;You&apos;re on my List&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>A Different World</string>
+			<key>Answers</key>
+			<array>
+				<string>Sister Sister</string>
+				<string>The Parkers</string>
+				<string>Living Single</string>
+				<string>A Different World</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Go Home Roger&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Sister Sister</string>
+			<key>Answers</key>
+			<array>
+				<string>Fresh Prince</string>
+				<string>Sister Sister</string>
+				<string>Moesha</string>
+				<string>The Parkers</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Homie dont play that&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>In Living Color</string>
+			<key>Answers</key>
+			<array>
+				<string>In Living Color</string>
+				<string>Waynes Brothers</string>
+				<string>Good Times</string>
+				<string>Martin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I&apos;ll rock your world!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>In Living Color</string>
+			<key>Answers</key>
+			<array>
+				<string>The Parkers</string>
+				<string>A Different World</string>
+				<string>In Living Color</string>
+				<string>Fresh Prince</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Hey, Professor&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>The Parkers</string>
+			<key>Answers</key>
+			<array>
+				<string>The Parkers</string>
+				<string>Thea</string>
+				<string>Good Times</string>
+				<string>Jamie Foxx Show</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Dang, Mama!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>The Parkers</string>
+			<key>Answers</key>
+			<array>
+				<string>Kenan &amp; Kel</string>
+				<string>Martin</string>
+				<string>Jamie Foxx Show</string>
+				<string>The Parkers</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Who loves orange soda&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Kenan &amp; Kel</string>
+			<key>Answers</key>
+			<array>
+				<string>Waynes Brothers</string>
+				<string>Kenan &amp; Kel</string>
+				<string>In Living Color</string>
+				<string>Jamie Foxx Show</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;How come we overcame, and nobody told me!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>The Jeffersons</string>
+			<key>Answers</key>
+			<array>
+				<string>Sanford and Son</string>
+				<string>Everybody Hates Chris</string>
+				<string>The Jeffersons</string>
+				<string>Martin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Your hair is so nappy, Wilson couldn&apos;t pick it&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Martin</string>
+			<key>Answers</key>
+			<array>
+				<string>A Different World</string>
+				<string>Fresh Prince</string>
+				<string>Martin</string>
+				<string>Good Times</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;You Know!, It doesnt matter how many degrees I get. All you people see is Color!!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>A Different World</string>
+			<key>Answers</key>
+			<array>
+				<string>Fresh Prince</string>
+				<string>A Different World</string>
+				<string>The Parkers</string>
+				<string>Good Times</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Bee-dee-bee&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Martin</string>
+			<key>Answers</key>
+			<array>
+				<string>Martin</string>
+				<string>In Living Color</string>
+				<string>Living Single</string>
+				<string>The Parkers</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;You aint got no job, Mann&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Martin</string>
+			<key>Answers</key>
+			<array>
+				<string>Waynes Brothers</string>
+				<string>Moesha</string>
+				<string>Sanford &amp; Son</string>
+				<string>Martin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;How come we overcome, and nobody told me?&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>The Jeffersons</string>
+			<key>Answers</key>
+			<array>
+				<string>Good Times</string>
+				<string>The Jeffersons</string>
+				<string>A Different World</string>
+				<string>Sister Sister</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;My mama always told me; If she cant use your comb, don&apos;t bring her home&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Martin</string>
+			<key>Answers</key>
+			<array>
+				<string>In Living Single</string>
+				<string>Moesha</string>
+				<string>The Jeffersons</string>
+				<string>Martin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Hey baby, I noticed you noticing me, and I just wanted to put you on notice that I noticed you too&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Jamie Foxx Show</string>
+			<key>Answers</key>
+			<array>
+				<string>Jamie Foxx Show</string>
+				<string>A Different World</string>
+				<string>The Fresh Prince</string>
+				<string>Martin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;His bike got stolen, I told him not to let anybody ride it. So I smacked him into next week, He&apos;ll be back on Tuesday&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Everybody Hates Chris</string>
+			<key>Answers</key>
+			<array>
+				<string>Good Times</string>
+				<string>Cosby Show</string>
+				<string>Everybody Hates Chris</string>
+				<string>Family Matters</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Look you&apos;re gonna have a hard time finding the &quot;One&quot;, You&apos;re a snob from the projects, Believe me that&apos;s rare&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Living Single</string>
+			<key>Answers</key>
+			<array>
+				<string>A Different World</string>
+				<string>Jamie Foxx Show</string>
+				<string>The Parkers</string>
+				<string>Living Single</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I should have known better to ask the accounting firm of poor, broke, and hungry for money&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>The Parkers</string>
+			<key>Answers</key>
+			<array>
+				<string>The Parkers</string>
+				<string>Moesha</string>
+				<string>A Different World</string>
+				<string>Martin</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I shoulda been born an octopus, you need eight hands to run this house&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Good Times</string>
+			<key>Answers</key>
+			<array>
+				<string>Everybody Hates Chris</string>
+				<string>Good Times</string>
+				<string>Cosby Show</string>
+				<string>Family Matters</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;What da heezy-fa-sheezy?&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Jamie Foxx Show</string>
+			<key>Answers</key>
+			<array>
+				<string>Fresh Prince </string>
+				<string>Jamie Foxx Show</string>
+				<string>Waynes Brothers</string>
+				<string>Smart Guy</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;It never rains in Southern California my ass!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Jamie Foxx Show</string>
+			<key>Answers</key>
+			<array>
+				<string>Martin</string>
+				<string>Moesha</string>
+				<string>My Wife &amp; Kids</string>
+				<string>Jamie Foxx Show</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I&apos;m wearing you down babe, I&apos;M WEARING YOU DOOOWN!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Family Matters</string>
+			<key>Answers</key>
+			<array>
+				<string>Family Matters</string>
+				<string>Living Single</string>
+				<string>Sister Sister</string>
+				<string>Steve Harvey Show</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which one of these is not a religion?</string>
+			<key>CorrectAnswer</key>
+			<string>Squash</string>
+			<key>Answers</key>
+			<array>
+				<string>Christianity</string>
+				<string>Buddhism</string>
+				<string>Judaism</string>
+				<string>Squash</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

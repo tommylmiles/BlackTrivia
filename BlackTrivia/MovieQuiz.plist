@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Give me a pack of Bubblicious&quot; &quot;And some Skittles&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>BAD BOYS</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;His momma named him Clay, I&apos;m gonna call him Clay&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>COMING TO AMERICA</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Sit yo five dollar @$$ down, before I make change&quot; </string>
+			<key>CorrectAnswer</key>
+			<string>NEW JACK CITY</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;They got the Big Mac, I got the Big Mick&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>COMING TO AMERICA</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Make the money, don&apos;t let the money make you&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>PLAYERS CLUB</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Lemme get One Rib, I sure am Hungry&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>IM GONNA GET YOU SUCKA</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;We didn&apos;t land on Plymouth Rock, Plymouth Rock landed on us&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>MALCOLM X</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Love should have brought your @$$ home last night&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>BOOMERANG</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;You got to reverse in. Don&apos;t be P@#$-Whipped, Whip that P@#*&amp;</string>
+			<key>CorrectAnswer</key>
+			<string>BOOMERANG</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I hope you catch a disease and your D&amp;^$ falls off&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>BOOMERANG</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Bye Felicia&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>FRIDAY</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;You told harpo to beat me&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>COLOR PURPLE</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;My food is created to nourish the soul, I haven&apos;t used pork since Thelma was about to Marry the Africa Prince&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>BAPS</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Whats the effin procedure when you have a gun to your head&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>SET IT OFF</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I&apos;m not gonna used the b-word, I just call yall unstable creatures&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>BABY BOY</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I aint no P^*&amp; , I keep my panties clean&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>CROOKLYN</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;I&apos;m new new, because I always rock the new,new S***</string>
+			<key>CorrectAnswer</key>
+			<string>ATL</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;You aint got to lie Craig&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>FRIDAY</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;You sho is Ugly&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>Color Purple</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;It was like his D#@$ just talked to me&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>LOVE JONES</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Livin’ large and takin’ charge, big boy!&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>BAPS</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;We are in a state of emergency and my word is law! There&apos;s only one boss around here, and that&apos;s me. The HNIC.&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>LEAN ON ME</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Oh! Now you&apos;re gonna shoot me in my pinky toe&quot;</string>
+			<key>CorrectAnswer</key>
+			<string>HARLEM NIGHTS</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;We don’t die, we multiply!”</string>
+			<key>CorrectAnswer</key>
+			<string>BEBE KIDS</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>&quot;Not only did ya knock me down, you stepped on my brand-new white Air Jordan’s I just bought, and that’s all you can say is “excuse me”?</string>
+			<key>CorrectAnswer</key>
+			<string>DO THE RIGHT THING</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>“What are we celebrating?” “My DIVOORRCEEE!”</string>
+			<key>CorrectAnswer</key>
+			<string>BROWN SUGAR</string>
+		</dict>
+	</array>
+</dict>
+</plist>
